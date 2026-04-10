@@ -1,0 +1,10 @@
+Git has 3 zones on your machine, plus GitHub as the 4th remote zone. Every command moves code between zones.
+Working directory
+? git add ?
+Staging area
+? git commit ?
+Local repo
+? git push ?
+GitHub (remote)
+Analogy: working directory = your desk, staging = the outbox tray, local repo = your filing cabinet, GitHub = the company server
+
